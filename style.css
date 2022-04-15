@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#cv_bg{
+    background-color: rgb(208, 219, 219);
+}
+#col1{
+    background-color: #02A2FD ;
+    border-radius: 150px 150px 0px 0px;
+}
+#profile{
+border-radius: 200px 200px 200px 200px;
+margin-top: 35px;
+}
+#contact{
+    width: 233px;
+    background-color:#ffff;
+    border-radius: 100px 100px;
+    margin-top: 30px;
+    text-align: center;
+    color:#02A2FD ;
+}
+
+.fa-facebook, .fa-twitter,.fa-whatsapp,.fa-location-dot{
+    font-size: 30px;
+    color: #ffff;
+    margin-bottom: 10px;
+    padding-left: 10px;
+
+}
+.cont{
+    display: inline-block;
+    color: #ffff;
+    padding-left: 8px;
+}
+
+#edu{
+    width: 233px;
+    background-color:#ffff;
+    border-radius: 100px 100px;
+    margin-top: 30px;
+    text-align: center;
+    color:#02A2FD ;
+}
+.edu-cont{
+    color: #ffff;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+
+#skill{
+    width: 233px;
+    background-color:#ffff;
+    border-radius: 100px 100px;
+    margin-top: 30px;
+    text-align: center;
+    color:#02A2FD ; 
+}
+.skill-cont{
+    color: #ffff;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+.baground{
+  
+    background-color:#154360 ;
+    border-radius: 100px 100px;
+    margin-top: 30px;
+    text-align: center;
+    color:#ffff;  
+}
+.work{
+    padding-left: 30px;
+    margin-top: 10px;
+    color: #154360;
+}
